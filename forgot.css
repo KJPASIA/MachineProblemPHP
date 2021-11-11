@@ -1,0 +1,19 @@
+body{
+	background-image: linear-gradient(to right, #e8198b, #070707);
+    color: #464646;
+
+}
+.input{
+	display: block;
+	border: 2px solid #ccc;
+	width: 95%;
+	padding: 6px;
+	margin: 10px auto;
+	border-radius: 5px;
+}
+.sub{
+	background-color: skyblue;
+}
+.form-gap {
+    padding-top: 70px;
+}
